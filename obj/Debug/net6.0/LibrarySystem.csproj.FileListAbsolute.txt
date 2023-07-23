@@ -1,0 +1,15 @@
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\bin\Debug\net6.0\LibrarySystem.exe
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\bin\Debug\net6.0\LibrarySystem.deps.json
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\bin\Debug\net6.0\LibrarySystem.runtimeconfig.json
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\bin\Debug\net6.0\LibrarySystem.dll
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\bin\Debug\net6.0\LibrarySystem.pdb
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\obj\Debug\net6.0\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\obj\Debug\net6.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\obj\Debug\net6.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\obj\Debug\net6.0\LibrarySystem.AssemblyInfo.cs
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\obj\Debug\net6.0\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\obj\Debug\net6.0\LibrarySystem.dll
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\obj\Debug\net6.0\refint\LibrarySystem.dll
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\obj\Debug\net6.0\LibrarySystem.pdb
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\obj\Debug\net6.0\LibrarySystem.genruntimeconfig.cache
+C:\Users\rapha\OneDrive\Área de Trabalho\Lista de exercícios - Programação orientada a objetos\Exercício 3\LibrarySystem\obj\Debug\net6.0\ref\LibrarySystem.dll
